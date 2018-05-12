@@ -1,0 +1,6 @@
+[11-May-2018 23:10:04 UTC] PHP Notice:  Undefined index: type in /home/ubuntu/workspace/cst336/Labs/lab4/index.php on line 106
+[11-May-2018 23:10:04 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/cst336/Labs/lab4/index.php on line 118
+[11-May-2018 23:10:04 UTC] PHP Notice:  Undefined index: availability in /home/ubuntu/workspace/cst336/Labs/lab4/index.php on line 132
+[11-May-2018 23:10:04 UTC] PHP Notice:  Undefined index: availability in /home/ubuntu/workspace/cst336/Labs/lab4/index.php on line 144
+[11-May-2018 23:10:04 UTC] PHP Notice:  Undefined index: type in /home/ubuntu/workspace/cst336/Labs/lab4/index.php on line 156
+[11-May-2018 23:10:04 UTC] PHP Notice:  Undefined index: order in /home/ubuntu/workspace/cst336/Labs/lab4/index.php on line 159

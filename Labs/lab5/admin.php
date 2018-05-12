@@ -12,6 +12,8 @@ if(!isset($_SESSION['username'])) {
 <html>
     <head>
         <title>Admin Main Page </title>
+         <link href="style.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
         
     </head>
     <body>

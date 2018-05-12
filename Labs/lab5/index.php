@@ -33,7 +33,8 @@ $conn = dbConnect();
 <html>
     <head>
         <title> Admin Login</title>
-        
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
     </head>
     <body>
         <h1> Admin Login</h1>
@@ -41,10 +42,10 @@ $conn = dbConnect();
         <form method="POST">
     
         Username: <input type="text" name="username"/> <br />
-        Password: <input type="password" name="password"/> <br />
-        <fieldset id="submitButton">
-            <input type="submit" id="submit" value="Submit" name="submitButton" />
-        </fieldset>
+        Password: <input type="password" name="password"/> <br /><br />
+        
+            <input type="submit" id="submit" value="Login" name="submitButton" />
+        
             
         </form>
         
